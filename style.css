@@ -1,0 +1,28 @@
+body{
+	background-color: rgb(218, 112, 214);
+}
+
+.container{
+	background-color: rgba(255, 255, 255,.6);
+}
+
+input[required]{
+	background-color: purple;
+}
+
+
+
+.bordeado{
+	border: solid 2px purple;
+	border-radius: 12px;
+	padding: .5em;
+}
+
+legend{
+	font-size: 1em;
+	
+}
+
+img{
+	text-align: right;
+}
