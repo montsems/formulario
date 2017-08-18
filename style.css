@@ -26,3 +26,16 @@ legend{
 img{
 	text-align: right;
 }
+
+.btn-info {
+    color: #fff;
+    background-color: #9C27B0;
+    border-color: #9C27B0;
+}
+
+.btn-info:hover {
+    color: #fff;
+    background-color: rgb(218, 112, 214);
+    border-color: rgb(218, 112, 214);
+	box-shadow: -8px -8px 8px #333;
+}
